@@ -46,6 +46,19 @@ Stable coin LP base rate guarantee:
 
 Much more:
   https://docs.google.com/document/d/17dVyb5M1lowYgvEF8nTGm6vatvTfJq0R9Bicj24Q_Os/edit?usp=sharing
+-----------------------------------------------------------------------------------------------------
+
+Quick intro about Uber Charging model
+  Base rate
+    Anyone must pay as long as booking a ride
+  Booking fee(Demand added rare)
+    It’ll various based on the location & destination
+  Long distance discount
+    If you book longer distance, then you can have cheaper cost compare to the shorter distance ride by dollar/mil value
+  Different types of Car has different price rate
+    There are Economy, Premium and more option to choose from, and the price of them are different
+  Drivers base guaranteed income & incentivization
+    Drivers will get higher enough income to pay for them all expenses, and based on the required ride amount completion will get incentivized once as while
 
 
 
